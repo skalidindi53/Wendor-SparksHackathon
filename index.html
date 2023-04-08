@@ -2,21 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=divice-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>Rating my Vending Machine</h1>
+    <nav>
+        <div class="logo">WENDOR</div>
+        <div class = "nav-item">
+            <button class="nav-button">Add New</button>
         </div>
-        <div class="content">
-            <p>Home page content goes here.</p>
+    </nav>
+    <section class="hero">
+        <div class="hero-container"> 
+          <div class="column-left">
+            <img src ="vend.png" alt="pic" class = "hero-image">
+            
+          </div>  
+          <div class="column-right">
+            <h1>Vending Machines and Water Filters</h1>
+            <div id="map"></div>
         </div>
-        <div class="footer">
-            <p>Footer content goes here.</p>
-        </div>
-    </div>
+
+<script src = "script.js"></script>
+<script async
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9NZzSxYr1keEzldE02_Wj84pg5KKS1zs&callback=initMap">
+</script>
+        
+        
+          </div>
+    </section>
+    
 </body>
 
 </html>
