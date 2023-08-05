@@ -1,6 +1,5 @@
 # Wendor - SparksHackathon
-This webstite is made for the SparksHackathon at UIC. We used HTML, CSS, javascript and maps API to create this website called "WENDOR".
-This website showcases the vending machines and water fountains on campus using google maps with custom markers. We plan to improve The website by allowing users to add additonal vending machines and water fountains to the map. Later we plan to add a feature that allows users to add reviews and ratings to the vending machines and water fountains. The service brings the community together by collaborative responses and reviews which help us to distinguish which vending machines require repairing and upgrades. This is done by the community for the community.
+Wendor is an interactive map website of vending machines and water filters on the UIC campus, designed to augment student convenience. Created during the SparksHackathon, Wendor integrates Google Maps API to provide real-time navigation and location data, successfully securing 2nd place in the competition.
 
 Demo video - https://youtu.be/w67rVwBQlrs
 ## Features
@@ -26,6 +25,13 @@ Demo video - https://youtu.be/w67rVwBQlrs
 
 ## Acknowledgments
 A special thanks to the SparksHackathon organizers and all the mentors who provided support and guidance during the event.
+
+## Future Updates
+Wendor aims to be a community-driven platform, and we have a roadmap full of exciting enhancements that reflect this philosophy. Here's what you can look forward to in the future:
+
+- **User-Contributed Locations**: We plan to empower users to add additional vending machines and water fountains to the map. This will create a comprehensive and community-curated database, ensuring that everyone can find what they need on campus.
+- **Reviews and Ratings**: In a later update, users will be able to add reviews and ratings to the vending machines and water fountains. These collaborative responses will foster community engagement and provide valuable insights.
+- **Community-Led Maintenance**: By gathering reviews and ratings, Wendor will help the community distinguish which vending machines require repairing and upgrades. This feature exemplifies our core belief: this service is done by the community, for the community.
 
 
 
