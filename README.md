@@ -8,6 +8,10 @@ Demo video - https://youtu.be/w67rVwBQlrs
 - **Custom Map Markers**: Includes unique markers for different vending machine types and water filter locations.
 - **Campus Convenience**: Tailored specifically for the UIC campus community, enhancing accessibility and ease of use.
 
+## Demo 
+https://github.com/skalidindi53/Wendor-SparksHackathon/assets/94879708/92b39a71-fd49-4e65-8ad4-02348c76b6cf
+
+
 ## Installation & Usage
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
