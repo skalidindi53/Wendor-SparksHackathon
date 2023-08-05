@@ -1,7 +1,6 @@
 # Wendor - SparksHackathon
 Wendor is an interactive map website of vending machines and water filters on the UIC campus, designed to augment student convenience. Created during the SparksHackathon, Wendor integrates Google Maps API to provide real-time navigation and location data, successfully securing 2nd place in the competition.
 
-Demo video - https://youtu.be/w67rVwBQlrs
 ## Features
 - **Interactive Map**: Utilizes Google Maps API to create an intuitive and user-friendly interface, allowing users to find the nearest vending machines and water filters.
 - **Real-time Navigation**: Offers dynamic location tracking to guide users to their desired destinations.
@@ -9,8 +8,7 @@ Demo video - https://youtu.be/w67rVwBQlrs
 - **Campus Convenience**: Tailored specifically for the UIC campus community, enhancing accessibility and ease of use.
 
 ## Demo 
-https://github.com/skalidindi53/Wendor-SparksHackathon/assets/94879708/92b39a71-fd49-4e65-8ad4-02348c76b6cf
-
+https://github.com/skalidindi53/Wendor-SparksHackathon/assets/94879708/043c1ffd-5d7a-4847-87ef-e1ab1011e0f4
 
 ## Installation & Usage
 1. Clone the repository to your local machine.
